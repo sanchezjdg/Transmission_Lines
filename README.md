@@ -1,0 +1,7 @@
+![](input_data.png)
+![](compliance_check.png)
+![](electric_field.png)
+![](magnetic_flux_no_images.png)
+![](magnetic_flux_ideal_soil.png)
+![](magnetic_flux_real.png)
+![](output_data.png)
